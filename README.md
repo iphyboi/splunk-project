@@ -1,1 +1,1 @@
-![Splunk Screenshot](https://github.com/iphyboi/splunk-project/blob/main/IMG_7863.JPG?raw=true)
+![Splunk Screenshot](https://github.com/iphyboi/splunk-project/blob/main/IMG_7864.JPG?raw=true)
