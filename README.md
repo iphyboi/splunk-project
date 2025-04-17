@@ -1,2 +1,2 @@
-# splunk-project
-A beginner SOC Analyst project using Splunk to analyze Linux System logs(dpkg.log) for software installation and removal events
+![Splunk Screenshot](https://github.com/iphyboi/splunk-project/blob/main/IMG_7855.JPG?raw=true)
+
