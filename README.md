@@ -32,3 +32,5 @@ This Project demonstrated how Splunk can be a powerful tool for Log analyses, al
 ### SCREENSHOTS
 NAVIGATING TO /var/log on Kali Linux:
 ![Navigating to /var/log](https://raw.githubusercontent.com/iphyboi/splunk-project/main/IMG_7855.JPG)
+
+Updated README to fix mistakes
