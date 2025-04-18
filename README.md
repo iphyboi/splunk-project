@@ -7,8 +7,11 @@ This Project focus on Log Analysis using Splunk to identify and analyse system l
 OBJECTIVES
 
 To use Splunk to analyse System Logs and Application Logs.
+
 To identify suspicious pattern or anomalies that may indicate security issues.
+
 To visualize the findings through Splunk dashboards.
+
 TOOLS USED
 
 Splunk for analyzing and visualizing logs.
@@ -22,7 +25,9 @@ The logs revealed patterns of system update and package management, which are es
 PROJECT WALKTHROUGH
 
 Data Collection: Logs were collected from the /var/log directory on Kali Linux machine.
+
 Log Analyses with Splunk: Splunk was used to index and analyse the logs. This step involves parsing logs to identify useful patterns.
+
 Visualisation: Key findings were displayed through Splunk dashboard, highlighting any suspicious activities.
 
 CONCLUSION
